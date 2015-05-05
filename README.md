@@ -27,4 +27,4 @@ Visit the [Shine Wiki](https://github.com/Person8880/Shine/wiki) for more inform
 The source code is avaliable via the my [Github repo](https://github.com/lifesfun/ns2Plugins).
 
 ## Thanks Goes To! 
-[GhoulofGSG9](https://github.com/GhoulofGSG9) for code review and support for all of my coding development.
+[GhoulofGSG9](https://github.com/GhoulofGSG9) for code review and support for all of my coding development. Inspiration comes from the Gorges themselves!
