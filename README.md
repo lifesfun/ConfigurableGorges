@@ -2,7 +2,8 @@
 
 Shine-ConfigurableGorges
 The Steam Workshop ID is: **To Be Added**
-MIT License (MIT) Copyright (c) 2015 lifesfun 
+
+MIT License (MIT) Copyright (c) 2015 [lifesfun]( https://github.com/lifesfun)
 
 ## Latest changes
 Visit **To Be added** for the latest updates.
