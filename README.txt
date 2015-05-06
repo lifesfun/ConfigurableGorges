@@ -17,6 +17,7 @@ Add the Mod ID: **To Be Determined** to your MapCycle.json and change the map or
 
 ## Setting up
 All Settings are stored in the config/shine/plugins folder beside all other shine plug-ins.
+Default Settings are 6 Babbblers per Egg, 4 Eggs per Gorge, and 15 Clogs Per Gorge.
 
 Visit the [Shine Wiki](https://github.com/Person8880/Shine/wiki) for more information.
 
