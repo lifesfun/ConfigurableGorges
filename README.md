@@ -1,7 +1,7 @@
 ##Overview
 
 Shine-ConfigurableGorges
-The Steam Workshop ID is: **[m1a1d903d](http://steamcommunity.com/sharedfiles/filedetails/?id=438145085)**
+The Steam Workshop ID is: **[1a1d903d](http://steamcommunity.com/sharedfiles/filedetails/?id=438145085)**
 
 MIT License (MIT) Copyright (c) 2015 [lifesfun]( https://github.com/lifesfun)
 
@@ -13,7 +13,7 @@ Server Side Only
 Configurable Gorges is plug-in package for Natural Selection 2 mod  [Shine](https://github.com/Person8880/Shine/wiki), hence Shine must be installed on the server for the plugin to work.
 
 ##Installation:
-Add the Mod ID: **[m1a1d903d](http://steamcommunity.com/sharedfiles/filedetails/?id=438145085)** to your MapCycle.json and change the map or restart the server.
+Add the Mod ID: **[1a1d903d](http://steamcommunity.com/sharedfiles/filedetails/?id=438145085)** to your MapCycle.json and change the map or restart the server.
 
 ##Setting up
 All Settings are stored in the config/shine/plugins folder beside all other shine plug-ins.
